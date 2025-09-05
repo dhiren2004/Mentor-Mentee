@@ -1,0 +1,10 @@
+.login-bg-img{
+    height: 100%;
+    width: 100%;
+}
+.login-cart{
+    border: 5px solid red;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
